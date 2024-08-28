@@ -3,14 +3,14 @@
 Este projeto consiste em duas APIs RESTful desenvolvidas em Node.js para gerenciamento de recomendações e registros de usuários. As APIs utilizam o banco de dados MongoDB para armazenar e recuperar dados e foram construídos para serem robustos, seguros e facilmente expansíveis.
 
 ## Tecnologias Utilizadas
-- Node.js :
+- Node.js : Plataforma de execução de código JavaScript no lado do servidor. Utilizada para construir a API devido à sua alta performance e facilidade de desenvolvimento.
 - Express : Framework web para Node.js que facilita a construção de APIs robustas e escaláveis.
 - MongoDB : Banco de dados NoSQL utilizado para armazenar dados de recomendações e registros de usuários.
 - Mongoose : Biblioteca de modelagem de objetos MongoDB para Node.js. Facilita a comunicação com o MongoDB, permitindo a definição de esquemas e a execução de validações.
 - node-restful : Extensão para Express e Mongoose que simplifica a criação de endpoints RESTful, permitindo a definição de métodos HTTP e manipulação de dados de forma eficiente.
 - Lodash : Biblioteca JavaScript que fornece recursos para tarefas comuns de programação como manipulação de arrays, objetos, etc. Utilizada aqui para manipulação de erros e formatação de respostas.
 - Regex : Expressões regulares são usadas para validação de entrada de dados, garantindo que os dados de entrada sigam o formato esperado.
-- 
+  
 ## Estrutura do Projeto
 
 O projeto segue uma estrutura organizada para separar claramente as responsabilidades de cada componente:
