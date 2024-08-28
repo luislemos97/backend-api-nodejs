@@ -50,7 +50,7 @@ Endpoints Disponíveis:
 ##### Validações:
 
 - fullName: Deve ter pelo menos duas palavras, cada uma começando com uma letra guardada.
-description: Máximo de 500 caracteres.
+- description: Máximo de 500 caracteres.
 - stars: Campo obrigatório.
 
 ##### Tratamento de Erros:
@@ -72,8 +72,8 @@ description: Máximo de 500 caracteres.
 
 ##### Validações:
 
-- fullName: Deve ter pelo
-- mail: Formato de e-mail válido é
+- fullName: Deve ter pelo menos duas palavras, cada uma começando com uma letra guardada.
+- mail: Formato de e-mail válido é obrigatório.
 
 ##### Tratamento de Erros:
 
